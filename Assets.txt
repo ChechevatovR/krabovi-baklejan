@@ -1,0 +1,37 @@
+Ассеты, сделаны силами участников команды с нуля
+- Рыбы (в т.ч. анимация) - и меш, и материал, и анимация
+	Для доказательства могу продемонстрировать создание аналогичной модели с нуля, предоставить скриншоты работы над анимацией. Создавалась в несоколько коммитов, есть в истории.
+- Труб - и меш, и материал
+	Для доказательства могу продемонстрировать создание аналогичной модели с нуля
+- Водорослей (в т.ч. анимация) - и меш, и материал, и анимация, и текстура
+	Для доказательства могу продемонстрировать создание аналогичной модели и текстуры с нуля, объяснить принцип работы скрипта анимации
+- Скрипт движения рыбы
+	Для доказательства могу объяснить принцип работы скрипта
+- Скрипт генерации рыб
+	Для доказательства могу объяснить принцип работы скрипта
+- Скрипты генерации мира
+	Для доказательства могу объяснить принцип работы скриптов, создавались в несоколько коммитов, есть в истории.
+- Скрипты изменения тумана
+
+- Скрипт обработки батареи
+	Коммиты множества версий
+- Pадара-локатор
+	Сделан при помощи информации из интернета. Могу объяснить как создавать
+
+- Туман
+	Сделан вручную
+
+Ассеты, сделанные на основании статей и подобного
+- Шейдер каустики
+  https://www.alanzucconi.com/2019/09/13/believable-caustics-reflections/
+
+
+
+
+Скачанные ассеты:
+- Terrain-CausticsMap1.jpg 
+  Источник: https://www.google.com/search?q=caustic+texture&rlz=1C1GCEA_enRU849RU849&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi05anW7ZDvAhVxs4sKHWeDDYsQ_AUoAXoECBUQAw#imgrc=eKt4rSrJB7MsfM
+  Файл:     https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphicdesign.stackexchange.com%2Fquestions%2F4725%2Fhow-can-i-create-a-large-size-water-caustics-texture-for-animation&psig=AOvVaw3RK0PgGenN71M8nVhMktos&ust=1614748669612000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCL1NntkO8CFQAAAAAdAAAAABAD
+- Terrain-CausticsMap2.jpg 
+  Источник: https://www.google.com/search?q=caustics+texture&rlz=1C1GCEA_enRU849RU849&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj57KPH95DvAhVvk4sKHW02AfYQ_AUoAXoECBQQAw&biw=958&bih=870#imgrc=fcK3_ox0D5hI0M
+  Файл:     https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreepyoctopus.com%2Fdev-diary-3-how-to-caustics%2F&psig=AOvVaw1ftWTPyT4GgWnh_84IYz98&ust=1614751401552000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj96u_3kO8CFQAAAAAdAAAAABAD
