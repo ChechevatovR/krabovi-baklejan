@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR;
-using Valve;
+// using Valve;
 
 public class PlayerMoving : MonoBehaviour
 { 
@@ -12,7 +12,7 @@ public class PlayerMoving : MonoBehaviour
     public float speed = 10f, rotatingSpeed = 5f, depthSpeed = 10f;
     
     
-    private Valve.VR.InteractionSystem.Hand hand;
+    // private Valve.VR.InteractionSystem.Hand hand;
   //  public Steamvr_i leftHand, rightHand;
     
     
